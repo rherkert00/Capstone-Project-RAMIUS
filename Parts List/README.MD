@@ -2,5 +2,5 @@
 All of the parts that are being considered for implemention or in use will be in this folder
 
 1. [Driver Boards](https://github.com/rherkert00/Capstone-Project-RAMIUS/tree/main/Parts%20List/Driver%20Boards)
-1. [Main Propulsion] (https://github.com/rherkert00/Capstone-Project-RAMIUS/tree/main/Parts%20List/Main%20Propulsion)
-1. [Microcontroller] (https://github.com/rherkert00/Capstone-Project-RAMIUS/tree/main/Parts%20List/Microcontroller)
+1. [Main Propulsion](https://github.com/rherkert00/Capstone-Project-RAMIUS/tree/main/Parts%20List/Main%20Propulsion)
+1. [Microcontroller](https://github.com/rherkert00/Capstone-Project-RAMIUS/tree/main/Parts%20List/Microcontroller)
