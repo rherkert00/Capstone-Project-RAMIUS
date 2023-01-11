@@ -1,0 +1,1 @@
+A microcontroller is essentially small computer. It has a CPU, Memory (typically an SD slot), RAM, I/O ports, and everything else you would also see on a computer. It's not as powerful as a regular computer but for the purposes of this project immense computer power isn't necessary. 
