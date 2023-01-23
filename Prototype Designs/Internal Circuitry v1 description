@@ -1,0 +1,3 @@
+I used Lushprojects.com to construct a virtual circuit in order to simulate what the internal circuitry could look like. I also used it to correctly tune the resistors so I can get the right voltage for each component.
+
+It's stored in a .txt format so in order to view the circuit go to https://lushprojects.com/circuitjs/
